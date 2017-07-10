@@ -1,2 +1,3 @@
 # InsultOMatic
-Just an automatic insult generator made so Benedict Evans would notice me :)
+Generate random insults and tweet them! Live demo at www.insultomatic.org
+
